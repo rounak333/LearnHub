@@ -746,7 +746,7 @@ footer .copyright p{
         left: -100%;
         top: 6rem;
         flex-direction: column;
-        background-color: #fff2e1;
+        background-color: rgb(199, 205, 132);
         width: 100%;
         height: 100vh;
         transition: 0.3s;
