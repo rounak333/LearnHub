@@ -726,7 +726,7 @@ footer .copyright p{
 }
 
 
-@media only screen and (max-width: 767px){
+@media only screen and (max-width: 1090px){
     .hamburger{
         display: flex;
     }
@@ -836,6 +836,10 @@ footer .copyright p{
 
     .main .content{
         width: 80%;
+    }
+    iframe{
+        width: 100%;
+        height: 400px;
     }
 }
 
