@@ -112,17 +112,28 @@
 .hero .main .hero-content h2{
     font-size: 3rem;
     color: #2f327d;
+     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .hero .main .hero-content span{
     color: #f48c06;
 }
 .hero .hero-content p{
     font-size: 25px;
+     display: flex;
+   
+    justify-content: center;
+    align-items: center;
 }
 .hero .hero-content .buttons{
     display: flex;
     align-items: center;
     gap: 2rem;
+     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 .hero .hero-content button{
     border: none;
